@@ -1,2 +1,3 @@
-# anxiety-mc
-Stupid mod that sends you "anxiety inducing" messages while bridging.
+# MCry
+makes u cry in mc
+based off https://github.com/Coderx-Gamer/anxiety-mc

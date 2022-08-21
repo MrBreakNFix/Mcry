@@ -10,6 +10,6 @@ public class MainClient implements ClientModInitializer {
     // game init
     @Override
     public void onInitializeClient() {
-        LOGGER.info("Initialization of AnxietyMC complete.");
+        LOGGER.info("Initialization of mcry complete.");
     }
 }
